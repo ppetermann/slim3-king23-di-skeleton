@@ -3,7 +3,7 @@
 This is a simple skeleton project for Slim 3 that includes Twig, Flash messages and Monolog.
 
 **Important**: this is a fork of [akrabat's slim 3 skeleton](https://github.com/akrabat/slim3-skeleton),
-which uses [king23/di-interop](https://github.com/ppetermann/king23-di) instead of pimple.
+this fork uses [king23/di-interop](https://github.com/ppetermann/king23-di) instead of pimple.
 
 ## Create your project:
 
