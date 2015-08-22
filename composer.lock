@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c6bd33cccf743b4fd0e4d78de7e5e643",
+    "hash": "bdbeb58e82556eb3654f6fa9ff581430",
     "packages": [
         {
             "name": "container-interop/container-interop",
@@ -74,16 +74,16 @@
         },
         {
             "name": "king23/di-interop",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ppetermann/king23-di-interop.git",
-                "reference": "f541bf9407a2805e2c281e59c45b6539cef834de"
+                "reference": "1698864a9813d6237f4ce56e7a4814513d76030f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ppetermann/king23-di-interop/zipball/f541bf9407a2805e2c281e59c45b6539cef834de",
-                "reference": "f541bf9407a2805e2c281e59c45b6539cef834de",
+                "url": "https://api.github.com/repos/ppetermann/king23-di-interop/zipball/1698864a9813d6237f4ce56e7a4814513d76030f",
+                "reference": "1698864a9813d6237f4ce56e7a4814513d76030f",
                 "shasum": ""
             },
             "require": {
@@ -111,7 +111,7 @@
                 }
             ],
             "description": "extension to king23-di to make it compatible with container-interop",
-            "time": "2015-08-22 17:04:20"
+            "time": "2015-08-22 17:18:11"
         },
         {
             "name": "monolog/monolog",
@@ -542,8 +542,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "slim/slim": 10,
-        "king23/di-interop": 20
+        "slim/slim": 10
     },
     "prefer-stable": false,
     "prefer-lowest": false,

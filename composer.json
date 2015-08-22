@@ -26,7 +26,7 @@
         "slim/twig-view": "^2.0",
         "slim/flash": "^0.1.0",
         "monolog/monolog": "^1.13",
-        "king23/di-interop": "dev-master"
+        "king23/di-interop": "^1.0"
     },
     "replace": {
         "pimple/pimple": "*"
