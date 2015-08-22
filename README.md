@@ -5,6 +5,8 @@ This is a simple skeleton project for Slim 3 that includes Twig, Flash messages 
 **Important**: this is a fork of [akrabat's slim 3 skeleton](https://github.com/akrabat/slim3-skeleton),
 this fork uses [king23/di-interop](https://github.com/ppetermann/king23-di) instead of pimple.
 
+You can read more about this fork in the [blog post that caused it](https://devedge.wordpress.com/2015/08/22/slim-framework-3-king23di-replacing-pimple/)
+
 ## Create your project:
 
     $ composer create-project -n -s dev ppetermann/slim3-skeleton my-app
